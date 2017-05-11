@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheilPengTai.WeChatSDK.Library", "CheilPengTai.WeChatSDK.Library\CheilPengTai.WeChatSDK.Library.csproj", "{98D99C7B-782A-48A0-900F-6A8102D28341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheilPengTai.WeChatSDK.Common", "CheilPengTai.WeChatSDK.Common\CheilPengTai.WeChatSDK.Common.csproj", "{B251A5B5-CAC6-4CC4-B495-DD26922E8F7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DLL", "DLL", "{6181E7E5-6495-4FA4-9FD0-71AB3DF11B0B}"
+	ProjectSection(SolutionItems) = preProject
+		CheilPengTai.WeChatSDK.Common\bin\log4net.dll = CheilPengTai.WeChatSDK.Common\bin\log4net.dll
+		CheilPengTai.WeChatSDK.Common\bin\Newtonsoft.Json.dll = CheilPengTai.WeChatSDK.Common\bin\Newtonsoft.Json.dll
+		CheilPengTai.WeChatSDK.Common\bin\NPOI.dll = CheilPengTai.WeChatSDK.Common\bin\NPOI.dll
+		CheilPengTai.WeChatSDK.Common\bin\NPOI.OOXML.dll = CheilPengTai.WeChatSDK.Common\bin\NPOI.OOXML.dll
+		CheilPengTai.WeChatSDK.Common\bin\NPOI.OpenXml4Net.dll = CheilPengTai.WeChatSDK.Common\bin\NPOI.OpenXml4Net.dll
+		CheilPengTai.WeChatSDK.Common\bin\NPOI.OpenXmlFormats.dll = CheilPengTai.WeChatSDK.Common\bin\NPOI.OpenXmlFormats.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheilPengTai.WeChatSDK.API", "CheilPengTai.WeChatSDK.API\CheilPengTai.WeChatSDK.API.csproj", "{7667D7F4-C399-4F84-B1C5-6A10FEA64AA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D99C7B-782A-48A0-900F-6A8102D28341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D99C7B-782A-48A0-900F-6A8102D28341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D99C7B-782A-48A0-900F-6A8102D28341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D99C7B-782A-48A0-900F-6A8102D28341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B251A5B5-CAC6-4CC4-B495-DD26922E8F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B251A5B5-CAC6-4CC4-B495-DD26922E8F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B251A5B5-CAC6-4CC4-B495-DD26922E8F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B251A5B5-CAC6-4CC4-B495-DD26922E8F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7667D7F4-C399-4F84-B1C5-6A10FEA64AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7667D7F4-C399-4F84-B1C5-6A10FEA64AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7667D7F4-C399-4F84-B1C5-6A10FEA64AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7667D7F4-C399-4F84-B1C5-6A10FEA64AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

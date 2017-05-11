@@ -1,0 +1,5 @@
+D:\Projects\OtherCodes\CheilPengTai.WeChatSDK\CheilPengTai.WeChatSDK.Library\bin\Debug\CheilPengTai.WeChatSDK.Library.dll
+D:\Projects\OtherCodes\CheilPengTai.WeChatSDK\CheilPengTai.WeChatSDK.Library\bin\Debug\CheilPengTai.WeChatSDK.Library.pdb
+D:\Projects\OtherCodes\CheilPengTai.WeChatSDK\CheilPengTai.WeChatSDK.Library\obj\Debug\CheilPengTai.WeChatSDK.Library.dll
+D:\Projects\OtherCodes\CheilPengTai.WeChatSDK\CheilPengTai.WeChatSDK.Library\obj\Debug\CheilPengTai.WeChatSDK.Library.pdb
+D:\Projects\OtherCodes\CheilPengTai.WeChatSDK\CheilPengTai.WeChatSDK.Library\obj\Debug\CheilPengTai.WeChatSDK.Library.csprojResolveAssemblyReference.cache
