@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CheilPengTai.WeChatSDK.Common.Helper
 {
-    internal class CodeMessageEnum
+    public class CodeMessageEnum
     {
         #region 微信授权
         /// <summary>
